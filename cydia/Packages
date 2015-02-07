@@ -1,0 +1,26 @@
+Package: net.miked.triviacrackcheets
+Name: Trivia Crack Hack
+Version: 1.0-70
+Architecture: iphoneos-arm
+Maintainer: Michael Dougherty
+Installed-Size: 268
+Depends: mobilesubstrate
+Filename: .//net.miked.triviacrackcheets_1.0-70_iphoneos-arm.deb
+Size: 58512
+MD5sum: d500f36063628e71d6df82d906a56943
+Section: Game Hacks
+Description: Always answering wrong? Well not anymore :P Zero cost powerups :)
+
+Package: net.miked.angrybirdstransformershack
+Name: Angry Birds Transformers Hack
+Version: 0.0.1-32
+Architecture: iphoneos-arm
+Maintainer: Michael Dougherty
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: .//net.miked.angrybirdstransformershack_0.0.1-32_iphoneos-arm.deb
+Size: 5380
+MD5sum: 49341600d486c9d62936f4129d5d68ac
+Section: Game Hacks
+Description: Gives you infinite health.
+
