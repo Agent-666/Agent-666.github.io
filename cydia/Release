@@ -1,0 +1,8 @@
+Origin: Agent666!
+Label: Agent666
+Suite: stable
+Version: 0.9
+Codename: sexy
+Architectures: iphoneos-arm
+Components: main
+Description: All good things must come to an end!
